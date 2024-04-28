@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+*{
+    background-color: rgb(135, 206, 235);
+}
+
+#eg-1{
+    background-color: black;
+    color: white;
+}
+
+#eg-3{
+    color: red;
+}
+
+    ul{
+        width: 50%;
+        padding: 10px;
+    }
+#eg-5{
+    background-color: white;
+    color: black;
+    font-size: 22px;
+}
+
+
+#eg-6{
+    background-color: grey;
+    color: black;
+}
+
+#eg-7{
+    background-color: pink;
+    
+}
+
+#eg-8{
+    background-color: grey;
+}
+
+#eg-9{
+    background-color: white;
+    color: black;
+    font-size: 22px;
+}
